@@ -1,0 +1,13 @@
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.exe
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.deps.json
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.runtimeconfig.json
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.runtimeconfig.dev.json
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.dll
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.pdb
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.csprojAssemblyReference.cache
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.AssemblyInfoInputs.cache
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.AssemblyInfo.cs
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.csproj.CoreCompileInputs.cache
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.dll
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.pdb
+C:\Users\Abelo\Desktop\4to\Mio\1er Semestre\Computación Gráfica\Proyecto\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.genruntimeconfig.cache
